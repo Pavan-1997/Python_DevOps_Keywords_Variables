@@ -65,7 +65,7 @@ a = 10  # Less clear
 num_of_students = 10  # More descriptive
 ```
 
-### Practice Exercises and 
+### Practice Exercises  
 
 #### Example: Using Variables to Store and Manipulate Configuration Data in a DevOps Context
 
